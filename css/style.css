@@ -773,10 +773,6 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  flex-direction: row;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .modal-checkbox-span {
